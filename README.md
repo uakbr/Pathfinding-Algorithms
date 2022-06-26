@@ -2,7 +2,7 @@
 <h1 align="center">Pathfinding visualizer</h1></p>
 
 
-![Gif of Pathfinding](https://i.imgur.com/qwkooxG.mp4)
+![Gif of Pathfinding](https://i.imgur.com/ArC4T6z.gif)
 
 ### Available algorithms:
  * A* 
